@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **kevinssuchichan**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
+I'm **wuziyanzong**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
 
 
 - 🌐 Built a series of **decentralized** network infrastructures. 
